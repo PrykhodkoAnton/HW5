@@ -1,0 +1,24 @@
+*{
+    background-color: aqua;
+}
+h2,p{
+    color: blueviolet;
+}
+.p{
+    color: brown;
+}
+main>h3{
+    font-family: Comic Sans MS;
+}
+#a{
+    color: cadetblue;
+}
+.h{
+    color: chartreuse;
+}
+.p.h{
+    color: bisque;
+}
+span{
+    color: crimson;
+}
